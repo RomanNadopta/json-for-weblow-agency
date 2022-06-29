@@ -3,34 +3,7 @@
    "fields": {
      "name": "albany table",
      "price": 7999,
-     "image": [
-       {
-         "id": "attP2cUyxU35M1zbw",
-         "width": 1000,
-         "height": 1500,
-         "url": "https://dl.airtable.com/.attachments/f3450755e165557344f7d6433242431e/93533098/product-1.jpeg?ts=1656455984&userId=usrQMwWEPx18KgLcP&cs=951c5e1c346709a3",
-         "filename": "product-1.jpeg",
-         "size": 119274,
-         "type": "image/jpeg",
-         "thumbnails": {
-           "small": {
-             "url": "https://dl.airtable.com/.attachmentThumbnails/ff352597ed0ea2977053a6ff046fce27/b6c7863a?ts=1656455984&userId=usrQMwWEPx18KgLcP&cs=7d82ea4d6afbf09e",
-             "width": 24,
-             "height": 36
-           },
-           "large": {
-             "url": "https://dl.airtable.com/.attachmentThumbnails/ecc03714fd1ff14f50d98834615da483/30525671?ts=1656455984&userId=usrQMwWEPx18KgLcP&cs=2f0443d300e26eb9",
-             "width": 512,
-             "height": 768
-           },
-           "full": {
-             "url": "https://dl.airtable.com/.attachmentThumbnails/82c685d726bb3f9548b092b86dd91f94/a75cff2f?ts=1656455984&userId=usrQMwWEPx18KgLcP&cs=5ca6768236d73a39",
-             "width": 3000,
-             "height": 3000
-           }
-         }
-       }
-     ],
+     "image": "img/images/blog-page/people-using-laptops",
      "description": "Cloud bread VHS hell of banjo bicycle right's jianbing umami mumblecore etsy 8-bit pok pok +1 wolf. Vexillologist yr dreamcatcher waistcoat, authentic chillwave trust fund. Viral typewriter fingerstache pinterest pork belly narwhal. Schlitz venmo everyday carry kitsch pitchfork chillwave iPhone taiyaki trust fund hashtag kinfolk microdosing gochujang live-edge",
      "colors": [
        "#f15025",
