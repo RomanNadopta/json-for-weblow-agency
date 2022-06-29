@@ -1,9 +1,11 @@
    {
       "id": "1",
-      "featured": true,
-      "dataOfYear": "17 Jan 2021",
-      "img": "img/images/blog-page/people-using-laptops",
-      "alt": "people using laptops",
-      "title": "How one Webflow user grew his single person consultancy from $0-100K in 14 months",
-      "text": "See how pivoting to Webflow changed one persons sales strategy and allowed him to attract",
+      "fields": {
+         "dataOfYear": "17 Jan 2021",
+         "img": "img/images/blog-page/people-using-laptops",
+         "alt": "people using laptops",
+         "title": "How one Webflow user grew his single person consultancy from $0-100K in 14 months",
+         "text": "See how pivoting to Webflow changed one persons sales strategy and allowed him to attract",
+         "featured": true,
+      }
     },
