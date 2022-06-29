@@ -34,7 +34,6 @@
    },
    {
       "id": "rec4",
-      "featured": true,
       "fields": {
       "data": "25 May 2021",
       "image": "img/images/blog-page/people-having-a-meeting",
@@ -45,7 +44,6 @@
    },
    {
       "id": "rec5",
-      "featured": true,
       "fields": {
       "data": "18 Nov 2021",
       "image": "img/images/blog-page/man-wearing-red-shirt",
@@ -55,8 +53,7 @@
       }
    },
    {
-      "id": "rec5",
-      "featured": true,
+      "id": "rec6",  
       "fields": {
       "data": "25 Dec 2021",
       "image": "img/images/blog-page/group-of-person-sitting-indoors",
