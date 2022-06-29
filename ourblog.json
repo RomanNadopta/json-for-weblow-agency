@@ -1,14 +1,22 @@
+[
 {
-   "id": "rec4f2RIftFCb7aHh",
+   "id": "rec1",
    "fields": {
-     "name": "albany table",
-     "price": 7999,
+     "data": "17 Jan 2021",
      "image": "img/images/blog-page/people-using-laptops",
-     "description": "Cloud bread VHS hell of banjo bicycle right's jianbing umami mumblecore etsy 8-bit pok pok +1 wolf. Vexillologist yr dreamcatcher waistcoat, authentic chillwave trust fund. Viral typewriter fingerstache pinterest pork belly narwhal. Schlitz venmo everyday carry kitsch pitchfork chillwave iPhone taiyaki trust fund hashtag kinfolk microdosing gochujang live-edge",
-     "colors": [
-       "#f15025",
-       "#222"
-     ],
-     "company": "marcos"
+     "alt": "people using laptops",
+     "title": "How one Webflow user grew his single person consultancy from $0-100K in 14 months",
+     "description": "See how pivoting to Webflow changed one person's sales strategy and allowed him to attract",
    }
- }
+ },
+ {
+   "id": "rec2",
+   "fields": {
+     "data": "17 Jan 2021",
+     "image": "img/images/blog-page/people-using-laptops",
+     "alt": "people using laptops",
+     "title": "How one Webflow user grew his single person consultancy from $0-100K in 14 months",
+     "description": "See how pivoting to Webflow changed one person's sales strategy and allowed him to attract",
+   }
+ },
+]
