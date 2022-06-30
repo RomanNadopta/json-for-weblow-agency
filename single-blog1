@@ -6,7 +6,7 @@
    "image": [
       {
        "leptop": "img/images/main-page/businessman-using-laptop",
-       "desctop": "img/images/blog-page/businessman-using-laptop-desktop"
+       "desktop": "img/images/blog-page/businessman-using-laptop-desktop"
       }
    ],
    "alt": "businessman",
