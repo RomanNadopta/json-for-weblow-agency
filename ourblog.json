@@ -3,9 +3,9 @@
       "id": "rec1",
       "fields": {
       "featured": true,
-      "data": "17 Jan 2021",
-      "image": "img/images/blog-page/people-using-laptops",
-      "alt": "people using laptops",
+      "data": "19 Jan 2022",
+      "image": "img/images/main-page/businessman-using-laptop",
+      "alt": "businessman",
       "title": "How one Webflow user grew his single person consultancy from $0-100K in 14 months",
       "description": "See how pivoting to Webflow changed one person's sales strategy and allowed him to attract"
       }
@@ -14,9 +14,9 @@
       "id": "rec2",
       "fields": {
       "featured": true,
-      "data": "20 Jul 2021",
-      "image": "img/images/blog-page/woman-using-a-laptop",
-      "alt": "woman using a laptop",
+      "data": "19 Jan 2022",
+      "image": "img/images/main-page/woman-using-macbook",
+      "alt": "woman",
       "title": "How one Webflow user grew his single person consultancy from $0-100K in 14 months",
       "description": "See how pivoting to Webflow changed one person's sales strategy and allowed him to attract"
       }
@@ -25,6 +25,36 @@
       "id": "rec3",
       "fields": {
       "featured": true,
+      "data": "19 Jan 2022",
+      "image": "img/images/main-page/apple-monitors",
+      "alt": "apple monitors",
+      "title": "How one Webflow user grew his single person consultancy from $0-100K in 14 months",
+      "description": "See how pivoting to Webflow changed one person's sales strategy and allowed him to attract"
+      }
+   },
+   {
+      "id": "rec4",
+      "fields": {
+      "data": "17 Jan 2021",
+      "image": "img/images/blog-page/people-using-laptops",
+      "alt": "people using laptops",
+      "title": "How one Webflow user grew his single person consultancy from $0-100K in 14 months",
+      "description": "See how pivoting to Webflow changed one person's sales strategy and allowed him to attract"
+      }
+   },
+   {
+      "id": "rec5",
+      "fields": {
+      "data": "20 Jul 2021",
+      "image": "img/images/blog-page/woman-using-a-laptop",
+      "alt": "woman using a laptop",
+      "title": "How one Webflow user grew his single person consultancy from $0-100K in 14 months",
+      "description": "See how pivoting to Webflow changed one person's sales strategy and allowed him to attract"
+      }
+   },
+   {
+      "id": "rec6",
+      "fields": {
       "data": "07 Oct 2021",
       "image": "img/images/blog-page/person-holding-earphones",
       "alt": "person holding earphones",
@@ -33,7 +63,7 @@
       }
    },
    {
-      "id": "rec4",
+      "id": "rec7",
       "fields": {
       "data": "25 May 2021",
       "image": "img/images/blog-page/people-having-a-meeting",
@@ -43,7 +73,7 @@
       }
    },
    {
-      "id": "rec5",
+      "id": "rec8",
       "fields": {
       "data": "18 Nov 2021",
       "image": "img/images/blog-page/man-wearing-red-shirt",
@@ -53,7 +83,7 @@
       }
    },
    {
-      "id": "rec6",  
+      "id": "rec9",  
       "fields": {
       "data": "25 Dec 2021",
       "image": "img/images/blog-page/group-of-person-sitting-indoors",
