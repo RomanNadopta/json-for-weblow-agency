@@ -3,7 +3,12 @@
    "fields": {
    "featured": true,
    "data": "19 Jan 2022",
-   "image": "img/images/main-page/businessman-using-laptop",
+   "image": [
+      {
+       "leptop": "img/images/main-page/businessman-using-laptop",
+       "desctop": "img/images/blog-page/businessman-using-laptop-desktop"
+      }
+   ],
    "alt": "businessman",
    "author": "Johnny Depp",
    "blogTitle": "A UX Case Study on Creating a Studious Environment for Students",
