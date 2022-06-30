@@ -1,0 +1,30 @@
+{
+   "id": "rec5",
+   "fields": {
+   "data": "20 Jul 2021",
+   "author": "Margot Robbie",
+   "blogTitle": "A UX Case Study on Creating a Studious Environment for Students",
+   "image": [
+      {
+      "laptop": "img/images/blog-page/woman-using-a-laptop",
+      "desktop": "img/images/blog-page/woman-using-a-laptop-desktop"
+      }
+   ],
+   "alt": "woman using a laptop",
+   "title": "How one Webflow user grew his single person consultancy from $0-100K in 14 months",
+   "description": "See how pivoting to Webflow changed one person's sales strategy and allowed him to attract"
+   },
+   "readBlog": {
+      "firstTitle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "secondTitle": "Ut enim ad minim veniam, quis nostrud.",
+      "thirdTitle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "firstDesc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "secondDesc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "firstListItem": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do.",
+      "secondListItem": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do.",
+      "thirdListItem": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do.",
+      "thirdDesc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "image": "img/images/blog-page/people-near-wooden-table",
+      "alt": "people near wooden table"
+   }
+}
